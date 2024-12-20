@@ -1,16 +1,16 @@
 cabal-version: 2.2
 
--- This file has been generated from package.yaml by hpack version 0.35.2.
+-- This file has been generated from package.yaml by hpack version 0.36.0.
 --
 -- see: https://github.com/sol/hpack
 
 name:           cmark-combinators
 version:        0.1.0.0
 synopsis:       A utility to generate well-formed CommonMark, thin wrapper around cmark package.
-description:    Please see the README on GitHub at <https://github.com/deepflowinc/cmark-combinators#readme>
+description:    Please see the README on GitHub at <https://github.com/deepflowinc-oss/cmark-combinators#readme>
 category:       Text
-homepage:       https://github.com/deepflowinc/cmark-combinators#readme
-bug-reports:    https://github.com/deepflowinc/cmark-combinators/issues
+homepage:       https://github.com/deepflowinc-oss/cmark-combinators#readme
+bug-reports:    https://github.com/deepflowinc-oss/cmark-combinators/issues
 author:         DeepFlow, Inc.
 maintainer:     DeepFlow, Inc.
 copyright:      2024 (c) DeepFlow, Inc.
@@ -28,7 +28,7 @@ extra-source-files:
 
 source-repository head
   type: git
-  location: https://github.com/deepflowinc/cmark-combinators
+  location: https://github.com/deepflowinc-oss/cmark-combinators
 
 library
   exposed-modules:

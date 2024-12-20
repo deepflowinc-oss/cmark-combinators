@@ -1,6 +1,6 @@
 name:                cmark-combinators
 version:             0.1.0.0
-github:              "deepflowinc/cmark-combinators"
+github:              "deepflowinc-oss/cmark-combinators"
 license:             BSD-3-Clause
 author:              "DeepFlow, Inc."
 maintainer:          "DeepFlow, Inc."
@@ -24,7 +24,7 @@ category:            Text
 # To avoid duplicated efforts in documentation and dealing with the
 # complications of embedding Haddock markup inside cabal files, it is
 # common to point users to the README.md file.
-description:         Please see the README on GitHub at <https://github.com/deepflowinc/cmark-combinators#readme>
+description:         Please see the README on GitHub at <https://github.com/deepflowinc-oss/cmark-combinators#readme>
 
 dependencies:
 - base >= 4.7 && < 5
